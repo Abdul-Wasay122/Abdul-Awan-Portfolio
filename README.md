@@ -1,8 +1,8 @@
-Abdul Awan's GitHub Portfolio
-Hello! I am Abdul Awan, a passionate and driven Computer Science undergraduate at the University of Hertfordshire. With a solid foundation in programming, databases, and web development, I enjoy solving real-world problems using technology. This is my personal portfolio where I showcase my skills, certifications, academic background, and professional experiences.
+**Abdul Awan's GitHub Portfolio
+**Hello! I am Abdul Awan, a passionate and driven Computer Science undergraduate at the University of Hertfordshire. With a solid foundation in programming, databases, and web development, I enjoy solving real-world problems using technology. This is my personal portfolio where I showcase my skills, certifications, academic background, and professional experiences.
 
-🌍 About Me
-Degree: BSc (Hons) Computer Science – University of Hertfordshire (2023 – 2026)
+**🌍 About Me
+**Degree: BSc (Hons) Computer Science – University of Hertfordshire (2023 – 2026)
 
 Location: United Kingdom (Open to relocation and remote work)
 
@@ -54,13 +54,13 @@ A-Levels – A* Grade (2021 – 2023)
 Quaid-e-Azam Rangers School, Karachi
 Matriculation – A Grade (2020)
 
-📜 Certifications
-Google Digital Garage – Fundamentals of Digital Marketing
+**📜 Certifications
+**Google Digital Garage – Fundamentals of Digital Marketing
 
 Aptech Learning – Introduction to Digital Marketing & Web Essentials
 
-🌐 Languages
-English: Fluent
+**🌐 Languages
+**English: Fluent
 
 Urdu: Fluent
 
